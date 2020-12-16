@@ -1,0 +1,18 @@
+BODY {
+    background-color: #e01818;
+    margin: 20px;
+    padding: 2px;
+  }
+  
+  MAIN H1 { /* This is my element reference */
+    font-size: 16pt;
+    font: bolder;
+  }
+  
+  .joker { /* this is my class reference */
+    font-stretch: extra-expanded;
+  }
+  
+  #article-meaning { /* this is my id reference */
+    background-color: #E7261B;
+  }
